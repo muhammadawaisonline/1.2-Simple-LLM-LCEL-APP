@@ -1,2 +1,10 @@
 langchain
 python-dotenv
+ipykernel
+langchain-groq
+langchain-openai
+langchain-core
+fastapi
+unicorn
+langserve
+sse-starlette
